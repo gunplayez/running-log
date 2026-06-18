@@ -1,7 +1,7 @@
 # Running Log - 6 Month Plan
 
 **Started:** June 18, 2026  
-**Goal:** Run Marathon
+**Goal:** Run Marathon 29 November 2026
 
 ---
 
@@ -16,6 +16,30 @@
 | Sat 13 Jun | Easy + 6 strides | 8.28 km | 1:03:36 | 7'41"/km | 134 BPM | 162 SPM | 3/10 | Started 5:30 PM, hotter than usual | Shoes: EVO SL / execution good despite heat |
 | Mon 15 Jun | Easy | 7.06 km | 59:16 | 8'24"/km | 137 BPM | 157 SPM | 3/10 | Outdoor, messy run, a lot of people | Met many friends, felt a bit stressed |
 | Tue 16 Jun | Easy + 6 strides | 8.18 km | 1:08:14 | 8'20"/km | 133 BPM | 158 SPM | 3/10 | Ran in rain, tried running sandals | Switched to NB 1080 mid-run / recent diarrhea |
+
+---
+
+## Weekly Summary
+
+<!-- WEEKLY_SUMMARY_START -->
+### Week of Jun 16-22, 2026
+
+**Stats:**
+- 🏃 Runs: 1
+- 📏 Total Distance: 8.18 km
+- ⏱️ Total Time: 1:08:14
+- 🎯 Avg Pace: 8'20"/km
+- ❤️ Avg HR: 133 BPM
+- 👟 Avg Cadence: 158 SPM
+- 💪 Avg Effort: 3/10
+
+**Notes:**
+- Ran in rain, tried running sandals
+- Switched to NB 1080 mid-run
+- Recent diarrhea
+
+---
+<!-- WEEKLY_SUMMARY_END -->
 
 ---
 
