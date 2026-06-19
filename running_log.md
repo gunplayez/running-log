@@ -25,14 +25,15 @@
 ### Week of Jun 15-Jun 21, 2026
 
 **Stats:**
-- ? Runs: 1
-- ? Total Distance: 5.27 km
-- ?? Total Time: 44:00
-- ? Avg Pace: 8'22"/km
-- ?? Avg HR: 129 BPM
+- ? Runs: 2
+- ? Total Distance: 14.40 km
+- ?? Total Time: 1:60:00
+- ? Avg Pace: 8'20"/km
+- ?? Avg HR: 130 BPM
 - ? Avg Cadence: 159 SPM
 
 **Recent Notes:**
+- New park many slope but less crowd
 - Slight diarrhea.
 
 ---
@@ -43,4 +44,5 @@
 ## Logs
 
 <!-- New entries will be added below this line -->
+| 06-19 | Easy + 6 strides | 9.13 km | 1:15:50 | 8'18"/km | 131 BPM | 158 SPM | 3 | New park many slope but less crowd | Happy run |
 | 06-18 | Easy | 5.27 km | 44:06 | 8'22"/km | 129 BPM | 159 SPM | 2 | Slight diarrhea. | Not tired, happy run |
