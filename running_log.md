@@ -25,11 +25,11 @@
 ### Week of Jun 22-Jun 28, 2026
 
 **Stats:**
-- ? Runs: 5
-- ? Total Distance: 33.52 km
-- ?? Total Time: 4:29:00
-- ? Avg Pace: 8'02"/km
-- ?? Avg HR: 138 BPM
+- ? Runs: 6
+- ? Total Distance: 42.74 km
+- ?? Total Time: 5:39:00
+- ? Avg Pace: 7'56"/km
+- ?? Avg HR: 137 BPM
 - ? Avg Cadence: 162 SPM
 
 **Recent Notes:**
@@ -45,6 +45,7 @@
 ## Logs
 
 <!-- New entries will be added below this line -->
+| 06-23 | Easy + 6 stride | 9.22 km | 1:10:00 | 7'35"/km | 134 BPM | 163 SPM | 3 | So hot today, I've to wear hat. | 6 days running consecutive. Felt fatigues. |
 | 06-22 | Time trial | 3.03 km | 0:15:47 | 5'13"/km | 165 BPM | 169 SPM | 9 | First time trial |  |
 | 06-21 | Easy | 8.02 km | 1:07:59 | 8'29"/km | 132 BPM | 164 SPM | 3 | Nothing |  |
 | 06-20 | Easy | 8.07 km | 1:05:37 | 8'08"/km | 133 BPM | 160 SPM | 3 | First time on track | Good run, happy run |
